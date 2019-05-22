@@ -1,0 +1,1 @@
+{"name":"peter","age":46,"resident":true}
